@@ -1,4 +1,4 @@
-# This repository contains the backend code deployed on AWS of our major project.
+# This repository contains the code of our major project.
 
 1. The code for plagiarism detection in text based assignment submissions is in Text Similarity/text_alignment folder. It contains the code after merging the source retrieval and text alignment task.
 2. The Xgboost folder contains all the code related to plagiarism detection in source code plagiarism detection. 
