@@ -45,4 +45,4 @@
 | /api/file/:lang | Returns a template for the language code provided.            | GET    | -                                                                               |
 | /api/run        | Return the console output for the code and language provided. | POST   | <pre lang="json">{<br> "lang": "lang_code", <br>"code": "full_code",<br>}</pre> |
 
-<img width="846" alt="Screen Shot 2021-04-22 at 10 13 24 AM" src="https://user-images.githubusercontent.com/29589003/115655644-6fe7b000-a353-11eb-99a4-b82496245a10.png">
+<img width="846" alt="Screen Shot 2021-04-22 at 10 16 30 AM" src="https://user-images.githubusercontent.com/29589003/115655875-da005500-a353-11eb-90db-1dd0cfe567a7.png">
