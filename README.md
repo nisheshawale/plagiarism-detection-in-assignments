@@ -6,5 +6,11 @@
 
 #### To run the server, you have to follow the following steps.
 1. First, install all the dependencies from requirements.txt and package.json.
-2. Then, you have to run the following command
-   `node /server/src/index.js`
+2. Then, you have to install Cppcheck, a static code analyzer for C/C++. Cppcheck can be installed on ubuntu using the following command.
+   ```
+   sudo apt-get install -y cppcheck
+   ```
+4. After that, you can run the server using the following command.
+   ```
+   node /server/src/index.js`
+   ```
