@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "nothotdog-b55fc"
+  },
+  "targets": {
+    "nothotdog-b55fc": {
+      "hosting": {
+        "major-project-plagiarism": [
+          "nothotdog-b55fc"
+        ],
+        "nothotdog-b55fc": [
+          "major-project-plagiarism"
+        ]
+      }
+    }
+  }
+}
